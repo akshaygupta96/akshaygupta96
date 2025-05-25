@@ -23,6 +23,7 @@ COVID-19 Spread Analysis in California (2021):
 Modeled inter-county infection trends with Python and SQL pipelines.
 
 💼 Experience
+
 Performance Test Engineer – John Deere
 Des Moines, IA | Dec 2021 – Apr 2024
 
@@ -86,4 +87,4 @@ LinkedIn
 
 Email: akshaygupta96@gmail.com
 
-![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshaygupta96&show_icons=true sections as needed -->
+![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshaygupta96&show_icons=true)
