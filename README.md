@@ -1,9 +1,6 @@
 ## Hi there
 
-Hi, I'm Akshay Gupta 👋
-🎓 Graduated from Carnegie Mellon University and Univeristy of Wisocnsin-Madison
-🔬 Interested in Data Science and Product Development and Testing
-💻 Proficient in Python, R, and HTML
+Hi, I'm Akshay Gupta. I am a graduate from Carnegie Mellon University and the University of Wisconsin-Madison. Interested in Data Science and Product Development and Testing. Proficient in Python, R, and HTML
 
 🚀 Projects
 
@@ -54,6 +51,7 @@ Automated workstations with computer vision models and object detection.
 Led redesign of industrial printers, achieving a 22% cost reduction.
 
 🎓 Education
+
 M.S. Data Analytics for Science, Carnegie Mellon University (GPA: 3.95), May 2025
 Advanced coursework in computational modeling, machine learning, deep learning, computer vision, and large-scale computing.
 
@@ -61,6 +59,7 @@ B.S. Mechanical Engineering, University of Wisconsin-Madison, May 2021
 Certificate in Engineering for Energy Sustainability.
 
 🛠️ Skills
+
 Programming: Python (Torch, TensorFlow, Keras, Spark, GeoPandas, PyVista, NumPy, Scikit-Learn, SciPy, Seaborn, Matplotlib), Bash, Linux, SQL, R, HTML
 
 Data & Visualization: Power BI, Tableau, MATLAB, Simulink
@@ -70,6 +69,7 @@ Engineering: SolidWorks, Creo, FEA Simulation, AutoCAD, LabView
 Manufacturing & Process: Kanban, 5S, GMP, FIFO
 
 🌟 Leadership & Activities
+
 CMU TartanHacks 2025: Built a crisis-response first-aid chatbot integrating multiple APIs
 
 Data Science Club Member & Volunteer (2024–2025)
