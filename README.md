@@ -84,8 +84,7 @@ Wisconsin Formula SAE Racing (2018–2021): Combustion powertrain sub-group
 
 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/akshay-96/): linkedin.com/in/akshay-96
-
+[LinkedIn](https://www.linkedin.com/in/akshay-96/)
 Email: akshaygupta96@gmail.com
 
 ![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshaygupta96&show_icons=true)
