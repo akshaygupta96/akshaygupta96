@@ -53,9 +53,11 @@ Led redesign of industrial printers, achieving a 22% cost reduction.
 🎓 Education
 
 M.S. Data Analytics for Science, Carnegie Mellon University (GPA: 3.95), May 2025
+
 Advanced coursework in computational modeling, machine learning, deep learning, computer vision, and large-scale computing.
 
 B.S. Mechanical Engineering, University of Wisconsin-Madison, May 2021
+
 Certificate in Engineering for Energy Sustainability.
 
 🛠️ Skills
