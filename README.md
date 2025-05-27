@@ -1,4 +1,4 @@
-## Introduction
+## Welcome to my GitHub!
 
 Hi, I'm Akshay Gupta. I am a graduate from Carnegie Mellon University and the University of Wisconsin-Madison. Interested in Data Science and Product Development and Testing. Proficient in Python, R, and HTML
 
