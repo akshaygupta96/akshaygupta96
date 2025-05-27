@@ -84,7 +84,7 @@ Solar Decathlon 2021 Finalist: Designed solar energy and HVAC systems for reside
 
 Wisconsin Formula SAE Racing (2018–2021): Combustion powertrain sub-group
 
-📫 Contact
+📫 Contact Me
 
 [LinkedIn](https://www.linkedin.com/in/akshay-96/)
 
