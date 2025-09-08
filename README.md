@@ -1,6 +1,6 @@
 ## Welcome to my GitHub!
 
-Hi, I'm Akshay Gupta. I am a graduate from Carnegie Mellon University and the University of Wisconsin-Madison. Interested in Data Science and Product Development and Testing. Proficient in Python, R, and HTML
+Hi, I'm Akshay Gupta. I am a graduate of Carnegie Mellon University and the University of Wisconsin-Madison. Interested in Data Science and Product Development and Testing. Proficient in Python, R, and HTML
 
 🚀 Projects
 
@@ -25,7 +25,6 @@ Data Engineer, Controls - Gruve Tech Inc.
 Edison, NJ | August 2025 – Present
 
 Building Gruve's data centers for agentic AI inference solutions, combining data engineering and controls engineering to create smooth and efficient machine learning workflows.
-
 ***
 
 Data Engineer - Service Near
@@ -36,6 +35,7 @@ Developed a conversational AI leasing agent using LangChain for natural user int
 Built a Flask API pipeline generating pre-filled lease PDFs and automating e-signatures with DocuSign API, enabling scalable digital
 lease workflows.
 ***
+
 Performance Test Engineer – John Deere
 Des Moines, IA | Dec 2021 – Apr 2024
 
@@ -43,21 +43,25 @@ Developed computer vision (sensor fusion) solutions for autonomous agricultural 
 
 Processed and analyzed GNSS data for precise field guidance and tested StarFire GPS products, including custom test rigs.
 ***
+
 Senior Manufacturing Associate – Qiagen
 Ann Arbor, MI | Oct 2021 – Dec 2021
 
 Assembled and tested PCR diagnostic devices for COVID-19, implementing lean manufacturing practices.
 ***
+
 Hydraulics Lab Engineering Intern – Culligan International
 Rosemont, IL | Jun 2021 – Aug 2021
 
 Designed 3D-printed components and fabricated lab equipment using SolidWorks and assembly skills.
 ***
+
 Research Assistant – Polymer Engineering Center
 Madison, WI | Jan 2021 – May 2021
 
 Analyzed fiber-filled polymer flows for automotive applications; recommended materials for industrial testing.
 ***
+
 Student Intern (Design & Process Engineering) – Celestica
 Singapore | Jun 2018 – Aug 2019
 
@@ -65,6 +69,7 @@ Automated workstations with computer vision models and object detection.
 
 Led redesign of industrial printers, achieving a 22% cost reduction.
 ***
+
 🎓 Education
 
 M.S. Data Analytics for Science, Carnegie Mellon University (GPA: 3.95), May 2025
