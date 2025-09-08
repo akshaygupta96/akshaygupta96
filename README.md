@@ -1,6 +1,6 @@
 ## Welcome to my GitHub!
 
-Hi, I'm Akshay Gupta. I am a graduate of Carnegie Mellon University and the University of Wisconsin-Madison. Interested in Data Science and Product Development and Testing. Proficient in Python, R, and HTML
+Hi, I'm Akshay Gupta. I am a graduate of Carnegie Mellon University and the University of Wisconsin-Madison. Interested in Data Science, Product Development, and Testing. Proficient in Python, R, and HTML
 
 🚀 Projects
 
@@ -23,14 +23,14 @@ Modeled inter-county infection trends with Python and SQL pipelines.
 
 Data Engineer, Controls - Gruve Tech Inc.
 
-Edison, NJ | August 2025 – Present
+Edison, NJ | Aug 2025 – Present
 
 Building Gruve's data centers for agentic AI inference solutions, combining data engineering and controls engineering to create smooth and efficient machine learning workflows.
 ***
 
 Data Engineer - Service Near
 
-Remote | Part-Time | July 2025 – August 2025
+Remote | Part-Time | Jul 2025 – Aug 2025
 
 Developed a conversational AI leasing agent using LangChain for natural user interactions and rental data capture.
 
