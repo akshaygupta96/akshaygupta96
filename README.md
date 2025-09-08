@@ -22,12 +22,14 @@ Modeled inter-county infection trends with Python and SQL pipelines.
 💼 Experience
 
 Data Engineer, Controls - Gruve Tech Inc.
+
 Edison, NJ | August 2025 – Present
 
 Building Gruve's data centers for agentic AI inference solutions, combining data engineering and controls engineering to create smooth and efficient machine learning workflows.
 ***
 
 Data Engineer - Service Near
+
 Remote | Part-Time | July 2025 – August 2025
 
 Developed a conversational AI leasing agent using LangChain for natural user interactions and rental data capture.
@@ -37,7 +39,8 @@ lease workflows.
 ***
 
 Performance Test Engineer – John Deere
-Des Moines, IA | Dec 2021 – Apr 2024
+
+Urbandale, IA | Dec 2021 – Apr 2024
 
 Developed computer vision (sensor fusion) solutions for autonomous agricultural vehicles using stereo cameras, radars, and lidar.
 
@@ -45,24 +48,28 @@ Processed and analyzed GNSS data for precise field guidance and tested StarFire 
 ***
 
 Senior Manufacturing Associate – Qiagen
+
 Ann Arbor, MI | Oct 2021 – Dec 2021
 
 Assembled and tested PCR diagnostic devices for COVID-19, implementing lean manufacturing practices.
 ***
 
 Hydraulics Lab Engineering Intern – Culligan International
+
 Rosemont, IL | Jun 2021 – Aug 2021
 
 Designed 3D-printed components and fabricated lab equipment using SolidWorks and assembly skills.
 ***
 
-Research Assistant – Polymer Engineering Center
+Research Assistant – Polymer Engineering Center (UW-Madison)
+
 Madison, WI | Jan 2021 – May 2021
 
 Analyzed fiber-filled polymer flows for automotive applications; recommended materials for industrial testing.
 ***
 
 Student Intern (Design & Process Engineering) – Celestica
+
 Singapore | Jun 2018 – Aug 2019
 
 Automated workstations with computer vision models and object detection.
