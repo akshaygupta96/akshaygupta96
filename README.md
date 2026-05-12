@@ -25,7 +25,7 @@ Data Engineer, Controls - Gruve Tech Inc.
 
 Edison, NJ | Aug 2025 – Present
 
-Building Gruve's data centers for agentic AI inference solutions, combining data engineering and controls engineering to create smooth and efficient machine learning workflows.
+Building Gruve's data centers for agentic AI inference solutions, combining data engineering and controls engineering to create smooth and efficient data pipelines for mechanical systems and metrics.
 ***
 
 Data Engineer - Service Near
