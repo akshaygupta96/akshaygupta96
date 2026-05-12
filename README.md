@@ -72,9 +72,9 @@ Student Intern (Design & Process Engineering) – Celestica
 
 Singapore | Jun 2018 – Aug 2019
 
-Automated workstations with computer vision models and object detection.
+Created annotated data samples to train computer vision models using object detection and localization, automating workstations on the Hewlett-Packard server assembly line. Authored Standard Operating Procedures (SOPs) and supported cloud server migration.
 
-Led redesign of industrial printers, achieving a 22% cost reduction.
+Re-designed an industrial printer for a new regional market using SolidWorks and FEA; collaborated with suppliers to build a Bill of Materials, resulting in a 22% cost reduction.
 ***
 
 🎓 Education
